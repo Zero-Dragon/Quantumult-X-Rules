@@ -1,9 +1,9 @@
 # Bilibili
-host-suffix,acgvideo.com,Bilibili
-host-suffix,biliapi.com,Bilibili
-host-suffix,biliapi.net,Bilibili
-host-suffix,bilibili.com,Bilibili
-host-suffix,bilibili.tv,Bilibili
-host-suffix,hdslb.com,Bilibili
-host-suffix,bilivideo.com,Bilibili
+host-suffix,acgvideo.com
+host-suffix,biliapi.com
+host-suffix,biliapi.net
+host-suffix,bilibili.com
+host-suffix,bilibili.tv
+host-suffix,hdslb.com
+host-suffix,bilivideo.com
 
