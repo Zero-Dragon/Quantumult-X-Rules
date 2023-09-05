@@ -1,0 +1,8 @@
+# NAME: BiliBili
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# NAME: DMM
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# NAME: OpenAI
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# NAME: TikTok
+# REPO: https://github.com/blackmatrix7/ios_rule_script
