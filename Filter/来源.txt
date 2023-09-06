@@ -1,5 +1,15 @@
-# NAME: BiliBili
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+
+# NAME: BiliBili
+# UPDATED: 2023-07-20 23:22:39
+# HOST: 53
+# HOST-SUFFIX: 61
+# IP-CIDR: 8
+# USER-AGENT: 4
+# TOTAL: 126
+
+
+
 # NAME: DMM
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # NAME: OpenAI
