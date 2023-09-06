@@ -17,9 +17,6 @@
 
 
 
-# ======= BiliJson 高码率仅粉版 ======= #
-
-
 # ======= BiliJson Tab页处理 ======= #
 # ～ BiliBili_哔哩哔哩_屏蔽直播页顶部轮播图
 ^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-interface\/v2\/index\/feed url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_json.js
