@@ -6,3 +6,6 @@ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoHongShu.
 
 // 知乎
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet
+
+# 贴吧去广告-qx(>=iOS15)
+https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf
