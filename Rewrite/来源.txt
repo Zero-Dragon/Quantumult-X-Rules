@@ -1,2 +1,8 @@
 // @ScriptName        哔哩哔哩净化
 // @ScriptURL         https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf
+
+// @ScriptName        小红书去广告
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoHongShu.conf
+
+// 知乎
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet
